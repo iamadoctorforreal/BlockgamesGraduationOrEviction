@@ -41,7 +41,7 @@ In this team I worked on the frontend and subsequently with documentation, I did
 This time I let my team lead know my react skill paucity, and I also told him that connecting to the UI was more important than the UI. I also stressed that the real react guy on the frontend team and me were finding it difficult to link our UI to the smart contract. Well, they gave links and videos to watch, well, at deadline,we still couldn't connect to the smart contract.
 
 It looks like a curse, every team I am in, we can connect the UI to the smart contract.
-In case you want to know what I did during this time, I have repositories I created to practice and understand how it works.
+In case you want to know what I did during this time, I have repositories I created to practice and understand how it works.(https://github.com/iamadoctorforreal/my-app/  ,https://github.com/iamadoctorforreal/proo)
 
 I followed a whole tutorial, and I was able to interact with an ECR20 token smart contract from the UI.
 The problem was, ours is a custom smart contract and I still had to interact with IPFS.
