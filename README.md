@@ -48,3 +48,17 @@ The problem was, ours is a custom smart contract and I still had to interact wit
 
 Not enough time for my slow brain to put it all together.
 
+
+<H2> Project 3 </H2>
+
+https://github.com/Ifenna-Pascal/Blockgames_task_3--VotingDapp/blob/main/src/App.js
+
+Here I worked with the UI.
+
+Basically, my team lead handled the integration.
+There wasn't enough time for me to practice the knowledge of integration I just learned, Now I don't know if I really know or don't.
+I wonder what I will be presenting.
+
+But My team lead told me to stay strong.
+
+Here goes nothing.
